@@ -1,5 +1,5 @@
 ## Welcome to My Personal Page -- Dummy page
-![headshot](https://github.com/senay-dev/senay-dev.github.io/blob/main/photo_2021-02-22_21-38-23.jpg)
+![headshot](photo_2021-02-22_21-38-23.jpg)
 
 
 
