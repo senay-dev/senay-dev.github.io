@@ -4,7 +4,7 @@
 <ul>
  {% for post in site.posts %}
  <li>
- <a href="{{ _posts/2019-01-01-new-year.md: }}">{{ Intro }}</a>
+ <a href="{{ _posts/Intro.md }}">{{ Intro }}</a>
  </li>
  {% endfor %}
 </ul>
