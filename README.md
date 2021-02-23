@@ -1,7 +1,13 @@
 ## Welcome to My Personal Page -- Dummy page
 
 
-
+<ul>
+ {% for post in site.posts %}
+ <li>
+ <a href="{{ post.url }}">{{ post.title }}</a>
+ </li>
+ {% endfor %}
+</ul>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
