@@ -2,11 +2,9 @@
 
 
 <ul>
- for post in site.posts
  <li>
  <a href="https://github.com/senay-dev/senay-dev.github.io/blob/main/_posts/Intro.md">Intro</a>
  </li>
- endfor
 </ul>
 ### Markdown
 
