@@ -3,7 +3,7 @@
 
 <ul>
  <li>
- <a href="_posts/intro.md">Intro</a>
+ <a href="intro.md">Intro</a>
  </li>
 </ul>
 ### Markdown
