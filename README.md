@@ -2,11 +2,11 @@
 
 
 <ul>
- {% for post in site.posts %}
+ for post in site.posts
  <li>
  <a href="_posts/Intro.md">Intro</a>
  </li>
- {% endfor %}
+ endfor
 </ul>
 ### Markdown
 
