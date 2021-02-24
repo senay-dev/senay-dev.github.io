@@ -3,7 +3,7 @@
 
 <ul>
  <li>
- <a href="senay-dev.github.io/intro.md">Intro</a>
+ <a href="hello-world/_posts/intro.md">Intro</a>
  </li>
 </ul>
 ### Markdown
