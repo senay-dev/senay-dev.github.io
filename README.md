@@ -2,8 +2,8 @@
 
 
 <ul>
- <li>
- <a href="senay-dev.github.io/_posts/Intro.md">Intro</a>
+ <li>Hello
+ <a href="https://raw.githubusercontent.com/senay-dev/senay-dev.github.io/main/_posts/Intro.md">Intro</a>
  </li>
 </ul>
 ### Markdown
