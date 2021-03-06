@@ -3,7 +3,7 @@
 
 <ul>
  <li>
- <a href="https://github.com/senay-dev/senay-dev.github.io/raw/main/newyork_crime.csv" download>Data...</a>
+ <a href="https://github.com/senay-dev/senay-dev.github.io/raw/main/newyork_crime.csv" target="_blank">DataNY</a>
  </li>
 </ul>
 ### Markdown
