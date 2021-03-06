@@ -3,7 +3,7 @@
 
 <ul>
  <li>
- <a href="https://drive.google.com/file/d/198WzWg8ZzPtrFLvcFhv19kCzdLtrFGPG/view?usp=sharing" target="_blank">Data</a>
+ <a href="https://drive.google.com/u/1/uc?id=198WzWg8ZzPtrFLvcFhv19kCzdLtrFGPG&export=download" target="_blank">Data Last</a>
  </li>
 </ul>
 ### Markdown
